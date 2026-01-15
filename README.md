@@ -7,8 +7,8 @@ A turn-based dice game for 2 to 4 players where players must balance risk and st
 🕹️ How the Game Works
 	•	The game supports 2, 3, or 4 players.
 	•	Players take turns rolling a dice.
-	•	If the dice roll is any number other than 0, the player earns that many carrots.
-	•	If the dice roll is 0, all unbanked carrots are lost for that turn.
+	•	If the dice roll is any number other than 1, the player earns that many carrots.
+	•	If the dice roll is 1, all unbanked carrots are lost for that turn.
 	•	At any point during their turn, a player can bank their carrots.
 	•	Banked carrots are safe and stored permanently.
 	•	Once banked, the turn ends.
